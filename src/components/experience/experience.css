@@ -19,9 +19,12 @@
     border-radius: 2rem;
     user-select: none;
 }
+.job__title {
+    color: var(--color-bg);
+}
 
 .job__description{
-    color: var(--color-light);
+    color: var(--color-white);
     font-weight: 300;
     display: block;
     width: 80%;
