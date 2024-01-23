@@ -2,7 +2,7 @@ import React from 'react'
 import './footer.css'
 import {BsLinkedin} from 'react-icons/bs'
 import {FaGithub} from 'react-icons/fa'
-import {FiInstagram} from 'react-icons/fi'
+import {MdOutlineEmail} from 'react-icons/md'
 
 const Footer = () => {
   return (
@@ -22,7 +22,7 @@ const Footer = () => {
       <div className="footer__socials">
       <a href="https://www.linkedin.com/in/carla-agüero" target="_blank"><BsLinkedin/></a>
         <a href="https://github.com/carlaaguero" target="_blank"><FaGithub/></a>
-        <a href="https://www.instagram.com/carlaaguerom/" target="_blank"><FiInstagram /></a>
+        <a href="mailto:carla.aguero.mi@gmail.com" target="_blank" target="_blank"><MdOutlineEmail/></a>
       </div>
 
       <div className="footer__copyright">
