@@ -1,11 +1,11 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.jpg'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/futureachievement.jpg'
+import IMG2 from '../../assets/chic-atelier.jpg'
+import IMG3 from '../../assets/abal.jpg'
+import IMG4 from '../../assets/diamond-match.jpg'
+import IMG5 from '../../assets/carla-web.jpg'
+import IMG6 from '../../assets/carla-new.jpg'
 
 
 const Portfolio = () => {
@@ -21,8 +21,8 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item tittle</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/carlaaguero/Future-Achievement" className='btn' rel="noopener noreferrer" target='_blank'>Github</a>
+          <a href="https://futureachievement.netlify.app/" className='btn btn-primary' rel="noopener noreferrer" target='_blank'>Website</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -31,8 +31,8 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item tittle</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/carlaaguero/React-Ecommerce-Website" className='btn' rel="noopener noreferrer" target='_blank'>Github</a>
+          <a href="https://chicatelier.netlify.app/" className='btn btn-primary' rel="noopener noreferrer" target='_blank'>Website</a>
           </div>
         </article><article className="portfolio__item">
           <div className="portfolio__item-image">
@@ -40,8 +40,8 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item tittle</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/carlaaguero/ABAL-Website" className='btn' rel="noopener noreferrer" target='_blank'>Github</a>
+          <a href="https://abalservicios.netlify.app/" className='btn btn-primary' rel="noopener noreferrer" target='_blank'>Website</a>
           </div>
         </article><article className="portfolio__item">
           <div className="portfolio__item-image">
@@ -49,8 +49,8 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item tittle</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/carlaaguero/React-memory-game" className='btn' rel="noopener noreferrer" target='_blank'>Github</a>
+          <a href="https://diamondmatchgame.netlify.app/" className='btn btn-primary' rel="noopener noreferrer" target='_blank'>Website</a>
           </div>
         </article><article className="portfolio__item">
           <div className="portfolio__item-image">
@@ -58,8 +58,8 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item tittle</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/carlaaguero/Portafolio-de-Carla" className='btn' rel="noopener noreferrer" target='_blank'>Github</a>
+          <a href="https://carlaaguero.netlify.app/" className='btn btn-primary' rel="noopener noreferrer" target='_blank'>Website</a>
           </div>
         </article><article className="portfolio__item">
           <div className="portfolio__item-image">
@@ -67,8 +67,8 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item tittle</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com" className='btn' target='_blank'>Github</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/carlaaguero/React-portfolio" className='btn' rel="noopener noreferrer" target='_blank'>Github</a>
+          <a href="https://carlaaguero.com/" className='btn btn-primary' rel="noopener noreferrer" target='_blank'>Website</a>
           </div>
         </article>
       </div>
