@@ -22,7 +22,7 @@ const Portfolio = () => {
           <h3>This is a portfolio item tittle</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/carlaaguero/Future-Achievement" className='btn' rel="noopener noreferrer" target='_blank'>Github</a>
-          <a href="https://futureachievement.netlify.app/" className='btn btn-primary' rel="noopener noreferrer" target='_blank'>Website</a>
+          <a href="https://fa-trd.com/" className='btn btn-primary' rel="noopener noreferrer" target='_blank'>Website</a>
           </div>
         </article>
         <article className="portfolio__item">
